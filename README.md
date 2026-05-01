@@ -1,4 +1,4 @@
-# Restaurant Data Analytics and Finacnce Assitant
+# Restaurant Data Analytics and Finacnce Assistant
 
 # AI-Powered Restaurant Data Analysis & Financial Query Workflow (Dify)
 
