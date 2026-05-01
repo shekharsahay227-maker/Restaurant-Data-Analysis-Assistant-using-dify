@@ -1,4 +1,4 @@
-# Restaurant-Data-Analysis-using-dify
+# Restaurant Data Analytics and Finacnce Assitant
 
 # AI-Powered Restaurant Data Analysis & Financial Query Workflow (Dify)
 
